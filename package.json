@@ -1,0 +1,11 @@
+{
+  "name": "pofresh-protocol",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "should": ">=0.0.1",
+    "mocha": ">=0.0.1",
+    "jscoverage": ">=0.0.1"
+  }
+}
