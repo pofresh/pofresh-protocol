@@ -9,7 +9,7 @@
     "window",
     "__resources__"
   ],
-  "es5": true,
+  "esversion": 6,
   "node": true,
   "eqeqeq": true,
   "undef": true,

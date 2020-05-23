@@ -10,5 +10,5 @@
   "scripts": [
     "lib/protocol.js"
   ],
-  "repo": "https://github.com/NetEase/pofresh-protocol"
+  "repo": "https://github.com/ljhsai/pofresh-protocol"
 }
